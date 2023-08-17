@@ -1,1 +1,7 @@
-
+img{
+    margin: 200px;
+    width: 10%;
+    height: 200px;
+    float:right ;
+    align-content:flex-end;
+}   
